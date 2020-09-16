@@ -14,3 +14,18 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+### Hi there 👋
+
+[![Linkedin: gonzaloandresramirez](https://img.shields.io/badge/-linkedin-blue?logo=Linkedin)](https://linkedin.com/in/gonzaloandresramirez/)
+
+[![GitHub: gara501](https://img.shields.io/github/followers/imagentleman?label=follow&style=social)](https://github.com/gara501)
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/?username=gara501" />
+</a>
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gara501&layout=compact&langs_count=8" />
+</a>

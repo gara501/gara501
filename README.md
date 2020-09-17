@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on doing games with Phaser 3 to explain the code in my youtube Channel [UnNoobPrograma](https://www.youtube.com/channel/UCc9WtBjWQ5mgtdzqqQyv_xQ)
 - 🌱 I’m currently learning about Game Design, lit-element, VueJs, ReactJs, Typescript.
-- 👯 I’m interested to learn more about I.A and Video Games development.
+- 👯 I’m interested to learn more about I.A and Video Games development. :shipit:
 
 [![Linkedin: gonzaloandresramirez](https://img.shields.io/badge/-linkedin-blue?logo=Linkedin)](https://linkedin.com/in/gonzaloandresramirez/)
 [![DevTo: gara501](https://img.shields.io/badge/-devto-red?logo=Dev.To)](https://dev.to/gara501)
@@ -40,7 +40,7 @@ Here are some ideas to get you started:
 const aramhack = {
   profile: [fullstack],
   architecture: ["microservices", "event-driven", "design system pattern"],
-  interests: ["videogames", "I.A", :shipit:]
+  interests: ["videogames", "I.A"]
   challenges: "I am doing the #100DaysOfCode challenge focused Javascript and Phaser3"
 }
 ```

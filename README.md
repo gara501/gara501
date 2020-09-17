@@ -1,4 +1,4 @@
-### Welcome to my cave! 👋
+### I'm Andres, Welcome to my cave! :bowtie:
 
 <!--
 **gara501/gara501** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Background](https://images.pexels.com/photos/459475/pexels-photo-459475.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260)
+![Background](https://i.postimg.cc/SQZVcnZr/aramhack-white.png)
 
 
 - 🔭 I’m currently working on doing games with Phaser 3 to explain the code in my youtube Channel [UnNoobPrograma](https://www.youtube.com/channel/UCc9WtBjWQ5mgtdzqqQyv_xQ)
@@ -34,3 +34,7 @@ Here are some ideas to get you started:
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gara501&layout=compact&langs_count=8" />
 </a>
+
+'''
+:shipit:
+'''

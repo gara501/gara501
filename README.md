@@ -1,4 +1,4 @@
-### Hi there 👋
+### Welcome to my cave! 👋
 
 <!--
 **gara501/gara501** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -20,7 +20,8 @@ Here are some ideas to get you started:
 
 [![Linkedin: gonzaloandresramirez](https://img.shields.io/badge/-linkedin-blue?logo=Linkedin)](https://linkedin.com/in/gonzaloandresramirez/)
 [![DevTo: gara501](https://img.shields.io/badge/-devto-red?logo=Dev.To)](https://dev.to/gara501)
-[![GitHub: gara501](https://img.shields.io/github/followers/imagentleman?label=follow&style=social)](https://github.com/gara501)
+[![GitHub: gara501](https://img.shields.io/github/followers/gara501?label=follow&style=social)](https://github.com/gara501)
+[![Twitter: aramh4ck](https://img.shields.io/github/followers/aramh4ck?label=Follow&style=social)](https://twitter.com/aramh4ck)
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/?username=gara501" />

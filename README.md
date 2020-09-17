@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Background](https://i.postimg.cc/SQZVcnZr/aramhack-white.png)
+### ![Background](https://i.postimg.cc/SQZVcnZr/aramhack-white.png)
 
 
 - 🔭 I’m currently working on doing games with Phaser 3 to explain the code in my youtube Channel [UnNoobPrograma](https://www.youtube.com/channel/UCc9WtBjWQ5mgtdzqqQyv_xQ)
@@ -35,6 +35,14 @@ Here are some ideas to get you started:
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gara501&layout=compact&langs_count=8" />
 </a>
 
-'''
 :shipit:
-'''
+
+```javascript
+const aramhack = {
+  code: [Javascript, HTML, CSS, Python, C#, MSSQL],
+  tools: [React, Redux, Node, Styled-Components, Jest, Docker, VueJs, Svelte, WebComponents, lit-element],
+  architecture: ["microservices", "event-driven", "design system pattern"],
+  interests: ["videogames", "I.A"]
+  challenges: "I am doing the #100DaysOfCode challenge focused Javascript and Phaser3"
+}
+```

@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I’m currently working on doing games with Phaser 3 to explain the code in my youtube Channel [https://www.youtube.com/channel/UCc9WtBjWQ5mgtdzqqQyv_xQ](UnNoobPrograma)
+- 🔭 I’m currently working on doing games with Phaser 3 to explain the code in my youtube Channel [![https://www.youtube.com/channel/UCc9WtBjWQ5mgtdzqqQyv_xQ]](UnNoobPrograma)
 - 🌱 I’m currently learning about Game Design, lit-element, VueJs, ReactJs, Typescript.
 
 [![Linkedin: gonzaloandresramirez](https://img.shields.io/badge/-linkedin-blue?logo=Linkedin)](https://linkedin.com/in/gonzaloandresramirez/)

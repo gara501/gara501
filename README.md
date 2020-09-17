@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### ![Background](https://i.postimg.cc/SQZVcnZr/aramhack-white.png)
+### <img align="right" src="https://i.postimg.cc/SQZVcnZr/aramhack-white.png" />
 
 
 - 🔭 I’m currently working on doing games with Phaser 3 to explain the code in my youtube Channel [UnNoobPrograma](https://www.youtube.com/channel/UCc9WtBjWQ5mgtdzqqQyv_xQ)

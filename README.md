@@ -35,13 +35,12 @@ Here are some ideas to get you started:
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gara501&layout=compact&langs_count=8" />
 </a>
 
-:shipit:
 
 ```javascript
 const aramhack = {
   profile: [fullstack],
   architecture: ["microservices", "event-driven", "design system pattern"],
-  interests: ["videogames", "I.A"]
+  interests: ["videogames", "I.A", :shipit:]
   challenges: "I am doing the #100DaysOfCode challenge focused Javascript and Phaser3"
 }
 ```

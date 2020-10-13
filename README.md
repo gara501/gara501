@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 ### <img align="right" src="https://i.postimg.cc/SQZVcnZr/aramhack-white.png" />
 
 
-- 🔭 I’m currently working on doing games with Phaser 3 to explain the code in my youtube Channel [UnNoobPrograma](https://www.youtube.com/channel/UCc9WtBjWQ5mgtdzqqQyv_xQ)
+- 🔭 I’m currently working on doing games with Phaser 3 and React, next will be testing Unity, for now I'm uploading tutorials to my youtube Channel [UnNoobPrograma](https://www.youtube.com/channel/UCc9WtBjWQ5mgtdzqqQyv_xQ)
 - 🌱 I’m currently learning about Game Design, lit-element, VueJs, ReactJs, Typescript.
 - 👯 I’m interested to learn more about I.A and Video Games development. :shipit:
 
